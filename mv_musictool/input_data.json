@@ -1,0 +1,42 @@
+{
+    "ROOT": {
+        "music_File": "file path",
+        "score": "4.9"
+    },
+    "Nature": {
+        "music_File": "file path",
+        "score": "5.0"
+    },
+    "Sun": {
+        "music_File": "file path",
+        "score": "5.0"
+    },
+    "PROG": {
+        "music_File": "file path",
+        "score": "5.0"
+    },
+    "REFL": {
+        "music_File": "file path",
+        "score": "5.0"
+    },
+    "SOLI": {
+        "music_File": "file path",
+        "score": "5.0"
+    },
+    "BE": {
+        "music_File": "file path",
+        "score": "5.0"
+    },
+    "LONG": {
+        "music_File": "file path",
+        "score": "5.0"
+    },
+    "DREA": {
+        "music_File": "file path",
+        "score": "5.0"
+    },
+    "MOD": {
+        "music_File": "file path",
+        "score": "5.0"
+    }
+}
