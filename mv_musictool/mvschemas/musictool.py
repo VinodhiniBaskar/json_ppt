@@ -297,7 +297,7 @@ class MusicSetFactory(object):
             slide = add_slide(prs, title_slide_layout,title_fullname, img_path, first_audio_path,second_audio_path,score)
         
 
-        
+        ## checking
         # slide = prs.slides[2]
         # audio_path = '/home/desktop-obs-59/Projects/json_ppt/333845 Ireland - Online.mp4'
         # music_slide = slide.shapes.add_movie(audio_path,left = Inches(1), top= Inches(1), \
