@@ -142,3 +142,9 @@ cython_debug/
 *.mp4 
 *.wav
 *.pptx
+*.png
+*.jpeg
+*.jpg
+*.odt
+*.ipynb
+*.zip
